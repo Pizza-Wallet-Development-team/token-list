@@ -21,7 +21,7 @@
             "address":"0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
             "name":"USD Coin",
             "symbol":"USDC",
-            "decimals":6,
+            "decimals":18,
             "logoURI":"https://storageapi.fleek.co/d1921602-c1d0-4d59-82e9-e36a2947b855-bucket/App/static/token-icons/usdc.webp"
 	    },
 	    {
